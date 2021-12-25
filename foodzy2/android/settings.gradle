@@ -1,3 +1,0 @@
-rootProject.name = 'cliapp'
-apply from: file("../node_modules/@react-native-community/cliapp-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
-include ':app'
